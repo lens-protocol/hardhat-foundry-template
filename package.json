@@ -1,5 +1,5 @@
 {
-  "name": "lens-network-hardhat-boilerplate",
+  "name": "hardhat-foundry-template",
   "scripts": {
     "compile": "hardhat compile",
     "clean:upgradable": "rimraf ./.upgradable/zkSync-era-test-node.json",

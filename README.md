@@ -1,6 +1,8 @@
-# Lens Network Hardhat Boilerplate
+# Lens Network Hardhat + Foundry Boilerplate
 
-This repository contains a boilerplate for developing smart contracts on the Lens Network using [Hardhat](https://hardhat.org/).
+This repository contains a boilerplate for developing smart contracts on the Lens Network with tooling for [Hardhat](https://hardhat.org/) and [Foundry](https://book.getfoundry.sh/).
+
+THe most common use case is for developing and deploying with Hardhat (which is more stable for ZKSync tooling), and using Foundry for running tests as described [here](#testing-with-foundry).
 
 ## Table of Contents <!-- omit in toc -->
 
